@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Salma Harraz  
-**⚡ Data Science Undergraduate | 🏗️ Aspiring Data Engineer | 📈 Data & BI Enthusiast**
+**⚡ Data Science Undergraduate | 🏗️ Aspiring Data Engineer**
 
 I'm a Data Science student at the Faculty of Computers and Data Science, Alexandria University. My core focus revolves around architecting robust ETL/ELT pipelines, database schema optimization, and uncovering meaningful business insights from complex datasets. Passionate about problem-solving, clean code, and engineering scalable data workflows.
 
