@@ -9,7 +9,7 @@ I'm a Data Science student at the Faculty of Computers and Data Science, Alexand
 - 🔧 Designing and optimizing automated **ETL/ELT data pipelines** using Python & PostgreSQL.
 - 🏛️ Exploring modern **Data Warehousing, Data Modeling, and Cloud Storage architectures**.
 - 📊 Crafting intuitive reports and interactive KPIs using **Power BI and Tableau**.
-- 🧠 Active Competitive Programmer on **[Codeforces](https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE)**, constantly tackling complex algorithmic challenges and data structures.
+- 🧠 Active Competitive Programmer on **[Codeforces](https://codeforces.com/profile/salma_ahmed_hrz)**, constantly tackling complex algorithmic challenges and data structures.
 - 🎓 Expanding my industrial expertise as a **Data Engineer Trainee** in the **Digital Egypt Pioneers Initiative (DEPI)**.
 
 ---
