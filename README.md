@@ -64,7 +64,7 @@ I'm a Data Science student at the Faculty of Computers and Data Science, Alexand
 
 <p align="center">
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_HANDLE&theme=tokyonight" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=salma_ahmed_hrz&theme=tokyonight" alt="Codeforces Stats" />
   </a>
 </p>
 
@@ -82,7 +82,7 @@ I'm a Data Science student at the Faculty of Computers and Data Science, Alexand
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="38" height="38"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE" target="_blank">
+  <a href="https://codeforces.com/profile/salma_ahmed_hrz" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-by-itmo-university-logo-shadow-tal-revivo.png" alt="Codeforces" width="38" height="38"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
