@@ -57,30 +57,6 @@ I'm a Data Science student at the Faculty of Computers and Data Science, Alexand
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" alt="VS Code" width="48" height="48"/>
 </p>
-
----
-
-## 🏆 Competitive Programming & Stats
-
-<p align="center">
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=salma_ahmed_hrz&theme=tokyonight" alt="Codeforces Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salma-ahmed-hrz&show_icons=true&theme=tokyonight&hide_border=true" alt="Salma's GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-ahmed-hrz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
----
-
-## 📬 Let's Connect!  
-<p align="center">
-  <a href="https://linkedin.com/in/salmaharraz" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="38" height="38"/>
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/salma_ahmed_hrz" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-by-itmo-university-logo-shadow-tal-revivo.png" alt="Codeforces" width="38" height="38"/>
